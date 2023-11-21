@@ -1,4 +1,4 @@
-- This project is used to record my reading notes of The Rust Programming Language[https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html] Chapter3 Common Programming Concepts.
+- This project is used to record my reading notes of [The Rust Programming Language](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)Chapter3 Common Programming Concepts.
 - Thanks to this book again, I've learned a lot of basics about rust from this chapter.It's actually a sizable chapter!
 - I've learned varibables, data types, functions, loops and flow control!
 - I'm already known other languages such as C, Python, Java and so on, I'm gonna write things I've learned compared to these languages below.
