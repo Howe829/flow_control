@@ -3,7 +3,7 @@
 - I've learned varibables, data types, functions, loops and flow control!
 - I'm already known other languages such as C, Python, Java and so on, I'm gonna write things I've learned compare to these languages below.
 - Mutable and Immutable variables in rust and constants, use "let" statement to declare a variable (default is immutable), use "let mut" for mutable and const for constants.
-- Differs between statement and expression, expression returns a value and statement will not, so if you wanna return a value from a function use expressi-- on.
+- Differs between statement and expression, expression returns a value and statement will not, so if you wanna return a value from a function use expression.
 - Using "->" to indicate the return value type of a function, just like python's typing but rust's more strict because it's a staticly typed language.
 - Using if, else and else if to do control flow things, but it doesn't need to use parentheses to wrap the condition(s) compare to c.
 - "//" for comments just like c.
