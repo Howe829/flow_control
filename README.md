@@ -11,7 +11,7 @@
 - 0..10 just like python's range(0, 10) is a half open interval and you can use 1..=10 for a closed interval in rust.
 One more thing, I'm using vim to write my rust code right now, I've learned the line editing of vim 
 - use "ctrl+v" to get into visual mode
-- "j" or "k" to move up and down for choosing the lines
+- "j" or "k" to move up or down for choosing the lines
 - "shift+i" to get into insert mode 
 - modify the first line
 - press "esc" the magical thing will happen.
