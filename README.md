@@ -9,7 +9,7 @@
 - "//" for comments just like c.
 - Loops, labeled loop, while loop, and for loop.
 - 0..10 just like python's range(0, 10) is a half open interval and you can use 1..=10 for a closed interval in rust.
-One more thing, I'm using vim to write my rust code right now, I've learned line editing 
+One more thing, I'm using vim to write my rust code right now, I've learned the line editing of vim 
 - use "ctrl+v" to get into visual mode
 - "j" or "k" to move up and down for choosing the lines
 - "shift+i" to get into insert mode 
