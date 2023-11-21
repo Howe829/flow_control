@@ -8,7 +8,7 @@
 - Using if, else and else if to do control flow things, but it doesn't need to use parentheses to wrap the condition(s) compare to c.
 - "//" for comments just like c.
 - Loops, labeled loop, while loop, and for loop.
-- 0..10 just like python's range(0, 10) is an open interval and you can use 1..=10 for a closed interval in rust.
+- 0..10 just like python's range(0, 10) is an half open interval and you can use 1..=10 for a closed interval in rust.
 One more thing, I'm also using vim to write my rust code right now, I've learned line editing 
 - use "ctrl+v" to get into visual mode
 - "j" or "k" to move up and down for choosing the lines
