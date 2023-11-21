@@ -14,4 +14,4 @@ One more thing, I'm also using vim to write my rust code right now, I've learned
 - "j" or "k" to move up and down for choosing the lines
 - "shift+i" to get into insert mode 
 - modify the first line
-- press "esc" the magical thing will happened.
+- press "esc" the magical thing will happen.
